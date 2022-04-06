@@ -18,9 +18,21 @@ The easiest way to install LocalStack is via pip:
 
 <img src="/img/localstackstart.png" width='60%'>
 
+Running Container Docker [`localstack`]
+<img src="img/containerlocalstack.png">
+
 You can query the status of respective services on LocalStack by running:
 
 >localstack status services
 
 <img src="img/servicestatus.png">
+
+
+
+
+
+# Reference:
+
+[LocalStack](https://github.com/localstack/localstack) - A fully functional local cloud stack.
+
 
