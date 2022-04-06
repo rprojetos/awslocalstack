@@ -2,9 +2,10 @@
 
 ### Requirements
 
+
 >python (Python 3.6 up to 3.9 supported)
-pip (Python package manager)
-[Docker](https://github.com/rprojetos/dockerLinuxInstall) - Install Docker in the Linux.
+>pip (Python package manager)
+>[Docker](https://github.com/rprojetos/dockerLinuxInstall) - Install Docker in the Linux.
 
 ### Installing
 The easiest way to install LocalStack is via pip:
